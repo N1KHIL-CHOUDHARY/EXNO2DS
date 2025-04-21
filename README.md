@@ -41,7 +41,4 @@ STEP 8: Use heatmap method of representation to show relationships between two v
 
 # RESULT
 Hence i have performed Exploratory Data Analysis on the given data set.
-NANDHINI N
-212224040212
-24002003
-CSE
+
